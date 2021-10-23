@@ -15,6 +15,8 @@
   <a href="#-license">Licença</a>
 </p>
 
+![Imagem do projeto](https://i.imgur.com/WM6wT8B.png "Imagem do projeto")
+
 ## 👨🏻‍💻 Sobre o projeto
 
 - <p style="color: red;">Aplicação desenvolvida durante a 2ª aula da Next Level Week Heat, onde você pode enviar mensagens sobre suas expectativas sobre o evento DoWhile da Rocketseat.</p>
